@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "darkelectron",
+  "repo": "container-w79es0",
+  "name": "darkelectron",
+  "email": "51426724+darkelectron@users.noreply.github.com",
+}
